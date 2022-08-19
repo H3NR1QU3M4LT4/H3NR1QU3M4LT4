@@ -16,6 +16,7 @@ I'm more focused in building ML powered systems. <br />
   </p>
 </div>
 
+---
 # Languages and Frameworks I use
 <div align="center">
   <h3> AI </h3>

@@ -16,6 +16,20 @@ I'm more focused in building ML powered systems. <br />
   </p>
 </div>
 
+
+## Experience
+### Machine Learning Engineer
+Merkle DACH, March 2022 - Present
+- Developed and trained neural networks using PyTorch.
+- Transformed raw data for machine learning algorithms.
+- Cleaned and manipulated large datasets for efficient model training.
+- Mentored and supported interns in their learning journey.
+- Implemented a Resume Parser that increased HR productivity by 56%.
+- Utilized Azure Machine Learning Studio and DevOps pipelines for model development and deployment.
+
+## Education
+- Master, Information Systems Management Engineering, Minho University, Portugal, 2023
+
 ---
 # Languages and Frameworks I use
 <div align="center">

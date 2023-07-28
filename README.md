@@ -63,8 +63,8 @@ Merkle DACH, March 2022 - Present
 
 <div align="center">
   <h3> Backend </h3>
-  </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
+  </a> <a href="[https://flask.palletsprojects.com/](https://fastapi.tiangolo.com)" target="_blank" rel="noreferrer"> 
+  <img src="[https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg](https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/fastapi/fastapi-plain-wordmark.svg)" alt="flask" width="40" height="40"/> 
   </a> 
 </div>
 
